@@ -1,0 +1,8 @@
+# Virtual Environment
+venv/
+
+# Video Output
+*.mp4
+
+# Python cache
+__pycache__/
